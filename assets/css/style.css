@@ -100,4 +100,28 @@ hr {
 .influencers {
   display: flex;
   justify-content: space-between;
+  width: 33%;
+}
+.influencer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.extra-feature .title h1 {
+  text-align: center;
+}
+.endline-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #010003;
+}
+.fab {
+  color: whitesmoke;
+}
+.socials {
+  display: flex;
 }
